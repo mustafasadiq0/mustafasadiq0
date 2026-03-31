@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm Mustafa Sadiq
 
-<!--
-**mustafasadiq0/mustafasadiq0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Specialist in Computer & Communications Engineering | Educator | Content Creator
 
-Here are some ideas to get you started:
+I focus on bridging the gap between complex engineering concepts and practical implementation. My work spans from low-level microprocessor architectures to the future of wireless communications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Focus
+* **Telecommunications:** 6G Standards & IMT-2030 Requirements.
+* **Hardware:** 8086/8088 Microprocessor Architecture & Embedded Systems.
+* **Emerging Tech:** Geopolitics of Technology & AI Infrastructure.
+
+### 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mustafasadiq0&show_icons=true&theme=radical" alt="Mustafa's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasadiq0&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🛠️ Current Projects & Research
+- 📡 Researching next-gen wireless communication protocols.
+- 💻 Developing instructional resources for Microprocessor courses.
+- 📝 Writing technical insights for LinkedIn and academic promotion.
+
+---
+
+### 📫 Connect with Me
+[LinkedIn](www.linkedin.com/in/mustafa-s-aljumaily) | [YouTube]([YOUR_YOUTUBE_URL](https://www.youtube.com/@mustafasadiq)) | [Udemy]([YOUR_UDEMY_URL](https://www.udemy.com/user/mustafa-sadiq/))

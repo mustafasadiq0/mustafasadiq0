@@ -26,3 +26,5 @@ I focus on bridging the gap between complex engineering concepts and practical i
 
 ### 📫 Connect with Me
 [LinkedIn](www.linkedin.com/in/mustafa-s-aljumaily) | [YouTube]([YOUR_YOUTUBE_URL](https://www.youtube.com/@mustafasadiq)) | [Udemy]([YOUR_UDEMY_URL](https://www.udemy.com/user/mustafa-sadiq/))
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustafasadiq0&theme=radical)

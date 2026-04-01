@@ -13,8 +13,8 @@ I focus on bridging the gap between complex engineering concepts and practical i
 
 ### 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mustafasadiq0&show_icons=true&theme=radical" alt="Mustafa's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasadiq0&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mustafasadiq0&show_icons=true&theme=radical" alt="Mustafa's Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mustafasadiq0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 🛠️ Current Projects & Research
